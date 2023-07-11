@@ -1,0 +1,29 @@
+body {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	color: #5a5a5a;
+}
+
+.carousel-item {
+	height: 500px;
+	margin-bottom: 200px;
+}
+
+.carousel-caption {
+	bottom: 100px;
+}
+
+footer {
+	margin: 0 50px;
+	position: relative;
+}
+
+.bg-img1 {
+	background-image: url("img/background.jpg");
+	background-size: cover;
+}
+
+.backtotop {
+	position: absolute;
+	right: 0;
+}
